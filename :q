@@ -1,0 +1,67 @@
+[33mcommit 50a871dd470197332e888b6891697ba6e1208cef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 1847bb9 6511e63
+Author: fisherman0825 <fisherman0825dd@gmail.com>
+Date:   Sat Feb 2 08:07:23 2019 +0000
+
+    Merge branch 'master' of https://github.com/stkzk3110/RubyonRails_tutorial3
+
+[33mcommit 1847bb9e4e1cefb189a8bd4d233d7b9eb1f73553[m[33m ([m[1;32mfilling-in-layout[m[33m)[m
+Author: fisherman0825 <fisherman0825dd@gmail.com>
+Date:   Sat Feb 2 07:59:59 2019 +0000
+
+    Finish layout and routes
+
+[33mcommit 6511e634e0fa2ded9a68a1ee52cfdb45d9f70f2f[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 7e063ad aadb034
+Author: fisherman0825 <fisherman0825dd@gmail.com>
+Date:   Sat Feb 2 06:54:40 2019 +0000
+
+    Merge branch 'master' of https://github.com/stkzk3110/RubyonRails_tutorial3
+
+[33mcommit 7e063ad5b88657857e9bb5dc2654738ee42b0ede[m
+Author: fisherman0825 <fisherman0825dd@gmail.com>
+Date:   Mon Jan 28 12:55:15 2019 +0000
+
+    Add a full_title helper
+
+[33mcommit aadb0348d510bf16c0b439b3b39ae77739b0fc77[m[33m ([m[1;31mheroku/master[m[33m, [m[1;32mrails-flavored-ruby[m[33m)[m
+Author: fisherman0825 <fisherman0825dd@gmail.com>
+Date:   Mon Jan 28 12:55:15 2019 +0000
+
+    Add a full_title helper
+
+[33mcommit 17242fc0d9f18eb802218d6ef2ae00a5152d3430[m
+Author: fisherman0825 <fisherman0825dd@gmail.com>
+Date:   Sat Jan 26 08:33:31 2019 +0000
+
+    Complete advanced setup
+
+[33mcommit 321845a6d582398b3cb6c249642138bda947d871[m[33m ([m[1;32mstatic-pages[m[33m)[m
+Author: fisherman0825 <fisherman0825dd@gmail.com>
+Date:   Thu Jan 24 13:59:53 2019 +0000
+
+    Finish static pages
+
+[33mcommit 734316a68eedd0ccbc1a24e6088719eb6e097e9c[m[33m ([m[1;31morigin/static-pages[m[33m)[m
+Author: fisherman0825 <fisherman0825dd@gmail.com>
+Date:   Sun Jan 20 14:52:49 2019 +0000
+
+    Add a Static Pages controller
+
+[33mcommit e2a28826951470f19812eaa4598f39fafdc8bced[m
+Author: fisherman0825 <fisherman0825dd@gmail.com>
+Date:   Sun Jan 20 13:40:45 2019 +0000
+
+    Add hello
+
+[33mcommit 16507ff864fe5d71b8af262b9f21052271ee4fd9[m
+Author: fisherman0825 <fisherman0825dd@gmail.com>
+Date:   Thu Jan 17 13:23:14 2019 +0000
+
+    Improve the README
+
+[33mcommit 6ab7f67bc1bfda5db6573a442688c858191fc314[m
+Author: fisherman0825 <fisherman0825dd@gmail.com>
+Date:   Thu Jan 17 13:08:29 2019 +0000
+
+    Initialize repository
