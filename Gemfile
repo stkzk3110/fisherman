@@ -13,7 +13,7 @@ gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'bcrypt', '3.1.12'
 gem 'faker', '1.7.3'
-gem 'will_paginate',           '3.1.6'
+gem 'will_paginate', '~> 3.0', group: :production
 gem 'bootstrap-will_paginate', '1.0.0'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
