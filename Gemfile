@@ -12,6 +12,9 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'jquery-rails' 
 gem 'jquery-ui-rails'
 gem 'bcrypt', '3.1.12'
+gem 'faker', '1.7.3'
+gem 'will_paginate',           '3.1.6'
+gem 'bootstrap-will_paginate', '1.0.0'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
@@ -37,7 +40,7 @@ gem 'jbuilder', '~> 2.5'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
-  gem 'sqlite3'
+  gem 'sqlite3', '~> 1.3.6'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   # Adds support for Capybara system testing and selenium driver
