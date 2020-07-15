@@ -1,0 +1,16 @@
+#pull requestのlabelに基づいてレビュワー、アサインを自動設定する
+name: 'Auto Assign'
+
+# トリガーの設定
+on:
+  pull_request:
+    types: [In Review]
+
+# ジョブの設定
+jobs:
+  add-reviews:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kentaro-m/auto-assign-action@v1.1.1
+        with:
+          configuration-path: ".github/auto_assign_super-studio.yml"
